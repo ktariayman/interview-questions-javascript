@@ -8,7 +8,7 @@ function boolToWord(v) {
     }
     else return `${v} n'est pas boolean`
 }
-
+ 
 
 
 function boolToWord(v) {

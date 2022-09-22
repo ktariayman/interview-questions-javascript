@@ -7,4 +7,4 @@ function multiply(a, b){
         return 'a and b should be numbers'
       }
     return a * b
-  }
+  } 

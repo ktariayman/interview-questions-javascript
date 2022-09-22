@@ -6,7 +6,7 @@
 // 123  --> "123"
 // 999  --> "999"
 // -100 --> "-100"
-
+ 
 function numberToString(num) {
     // Return a string of the number here!
     if(typeof num === "number")     return num.toString()

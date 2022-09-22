@@ -11,7 +11,7 @@ function makeNegative(num) {
     if(num>=0) return -num
     else return num
 }
-
+ 
 function makeNegative(num) {
     return Math.abs(num) * -1;
 }

@@ -3,4 +3,4 @@
 function opposite(number) {
     if(typeof number !== "number") return 'typeof input is not number'
     return -number
-}
+} 

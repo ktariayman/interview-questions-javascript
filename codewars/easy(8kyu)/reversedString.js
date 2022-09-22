@@ -6,7 +6,7 @@
 
 // my solution : 
 
-
+  
 // create new variable 
 // loop from the last element on the string ( input)
 // add the element to the new variable

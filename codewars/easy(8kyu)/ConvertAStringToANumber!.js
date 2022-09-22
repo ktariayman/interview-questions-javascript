@@ -8,7 +8,7 @@
 // "605"  --> 605
 // "1405" --> 1405
 // "-7" --> -7
-
+ 
 const stringToNumber = function(str){
     // put your code here
       console.log(typeof(str))
