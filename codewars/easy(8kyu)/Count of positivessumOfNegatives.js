@@ -17,8 +17,8 @@ function countPositivesSumNegatives(input) {
         let p = 0
         let s = 0
         for (let i=0; i<input.length ; i++){
-          if(input[i]>0) p++
-          else s+=input[i]
+            if(input[i]>0) p++
+            else s+=input[i]
         }
         return [p, s]
     } else {
